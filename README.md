@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-cd timer-backend && npm i 
+cd timer-backend && npm i
 cd timer-front && npm i
 ```
 
@@ -14,6 +14,6 @@ make start-back
 make start-front
 ```
 
-### Example 
+### Example
 
-<img src="gif/timer.gif" width="500" height="300" />
+<img src="gif/timer.gif" />
