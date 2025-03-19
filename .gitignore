@@ -1,1 +1,2 @@
-./node_modules/**
+timer-backend/node_modules*
+timer-front/node_modules*
