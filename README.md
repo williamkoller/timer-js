@@ -16,4 +16,4 @@ make start-front
 
 ### Example
 
-[!Timer](./gif/timer.gif)
+![Timer](./gif/timer.gif)
