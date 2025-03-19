@@ -16,4 +16,6 @@ make start-front
 
 ### Example
 
-<img src="gif/timer.gif" width="500" height="300" />
+<video autoplay loop muted playsinline width="500">
+  <source src="/video/2025-03-19 13-05-25.mp4" type="video/mp4">
+</video>
