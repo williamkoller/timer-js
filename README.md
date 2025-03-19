@@ -16,4 +16,4 @@ make start-front
 
 ### Example
 
-<img src="gif/timer.gif" />
+<img src="gif/timer.gif" width="500" height="300" />
