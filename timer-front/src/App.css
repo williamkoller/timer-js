@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  transition: background-color 0.5s ease;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+
+.dark-green-background {
+  background-color: #006400; /* Verde escuro */
+}
